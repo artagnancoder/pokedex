@@ -9,8 +9,9 @@
 
 <div align="center"> 
 ## Autores
-- [@joaopedrocoder](https://github.com/joaopedrocoder) 
-- [@artagnancoder](https://github.com/artagnancoder)
+
+  <h2> <a href="https://github.com/joaopedrocoder"> @joaopedrocoder </a> </h2>
+  <h2> <a href="https://github.com/artagnancoder"> @artagnancoder </a> </h2>
 </div>
 
 
