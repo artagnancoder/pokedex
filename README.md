@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src='https://c.tenor.com/XDAe8PDHSIMAAAAd/downsign-qr-code.gif' width="200" height="200">
+<img src='https://media1.giphy.com/media/96Xaju9KRM4ne/giphy.gif?cid=ecf05e47184jtmgvar6elhzx6mlponmq6fu4lu74m64wqxay&rid=giphy.gif&ct=g' width="200" height="200">
   </div>
 <div align="center"> 
 <h1> Pokedex </h1>
