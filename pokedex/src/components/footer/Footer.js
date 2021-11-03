@@ -19,7 +19,7 @@ const Footer = () => {
                     <Logo src={"https://bit.ly/3wD8P6d"} />
 
                     <h3>Pokedex</h3>
-                    <p>Pokedex desenvolvida por: Igor Artagnan, João Pedro Lopes Rodrigues, Larissa Menezes e Raphael Nicolini da Silva, utilizando a API pública <a href={"https://pokeapi.co/"} target={'_blank'} rel="noopener noreferrer">PokéAPI</a>.
+                    <p>Pokedex desenvolvida por: Igor Artagnan e João Pedro Lopes Rodrigues utilizando a API pública <a href={"https://pokeapi.co/"} target={'_blank'} rel="noopener noreferrer">PokéAPI</a>.
                     </p>
                 </SobreDiv>
 
