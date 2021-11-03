@@ -64,11 +64,10 @@ $ npm run start
 
 - Versão desktop
 
-![image](https://user-images.githubusercontent.com/83232317/131231277-42df50a4-5204-4b19-be13-17fe1807d73b.png)
-![image](https://user-images.githubusercontent.com/81184973/126021807-d3a05ca8-9a41-4a41-89fb-0dfad3c605e4.png)
-![image](https://user-images.githubusercontent.com/81184973/126021816-9d411272-6dd9-4001-8477-24ce78ccca73.png)
-![image](https://user-images.githubusercontent.com/81184973/126021822-e8f3746c-0c17-49e4-a590-3f02bedd6ab1.png)
-![image](https://user-images.githubusercontent.com/81184973/126021854-330b3de2-99b9-4e70-a0f0-7da5271cb950.png)
+![image](https://user-images.githubusercontent.com/81184973/140134646-82794976-78f7-4ccd-814c-eb053462d740.png)
+![image](https://user-images.githubusercontent.com/81184973/140135121-63274c19-8f73-4883-ae25-09b015ff442e.png)
+![image](https://user-images.githubusercontent.com/81184973/140135559-8079d323-9d38-4c82-8888-35c304f3c9a6.png)
+
 
 -Mobile
 
