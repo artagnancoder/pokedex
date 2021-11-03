@@ -11,15 +11,15 @@
 
   ## Autores
 
-  <h2> <a href="https://github.com/joaopedrocoder"> @joaopedrocoder </a> </h2>
-  <h2> <a href="https://github.com/artagnancoder"> @artagnancoder </a> </h2>
+  <h3> <a href="https://github.com/joaopedrocoder"> @joaopedrocoder </a> </h3>
+  <h3> <a href="https://github.com/artagnancoder"> @artagnancoder </a> </h3>
 </div>
 
 
 
 
 <div align="center"> 
-  <h2> <a href='http://political-letter.surge.sh/' target='_blank'> Acesse aqui </a> </h2>
+  <h2> <a href='https://motionless-jellyfish.surge.sh/' target='_blank'> Acesse aqui </a> </h2>
 </div>
 
 
