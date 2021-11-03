@@ -72,7 +72,7 @@ $ npm run start
 -Mobile
 
 ![image](https://user-images.githubusercontent.com/81184973/126077130-7cc4ce82-b431-4663-9d22-bdb3b72b265a.png)
-![image](https://user-images.githubusercontent.com/81184973/126077143-0a3466c0-42a1-4354-b0fe-5b96735295c6.png)
+![image](https://user-images.githubusercontent.com/81184973/140137148-66186da9-eae8-4140-a67a-37c911e3eceb.png)
 ![image](https://user-images.githubusercontent.com/81184973/126077170-66049302-f154-46e5-821e-b049e23cc866.png)
 ![image](https://user-images.githubusercontent.com/81184973/126077190-7343aaa2-b9f3-4525-be91-ae15ea0aa597.png)
 
